@@ -2,4 +2,4 @@
 A new programming language.
 Use this language to build your applcation quickly.
 example:
-`<blockquote>` console.show("Hello World!") `<blockquote>`
+      console.show("Hello World!")
